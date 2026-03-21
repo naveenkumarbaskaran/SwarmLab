@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/banner.svg" alt="SwarmLab" width="700">
+
 # 🐝 SwarmLab
 
 **Swarm Intelligence Simulation Framework — PSO, ACO, Firefly, and Hybrid Algorithms**
